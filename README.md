@@ -1,2 +1,3 @@
 # nikusOS
-Cool Os From Zero on C and Nasm
+Cool Os on Bat++
+P.S FILES ARE NOT UPDATING NOW
